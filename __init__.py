@@ -1,1 +1,2 @@
-"""The example sensor integration."""
+"""The FreeNAS sensor integration."""
+
